@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/f4401d92-5bf2-4c9f-bdac-cf438d1660ba" alt="Banner" width="100%" alt="Nirupam Shinde Banner"/>
+<img src="https://github.com/user-attachments/assets/f4401d92-5bf2-4c9f-bdac-cf438d1660ba" width="100%" alt="Nirupam Shinde Banner"/>
 
 <br>
 
@@ -17,26 +17,24 @@ Passionate about solving real-world problems with scalable technology.
 <br>
 
 <p align="center">
+
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/7nirupam">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=A58C6F&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=7nirupam&label=Profile%20Views&color=A58C6F&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -50,6 +48,3 @@ Passionate about solving real-world problems with scalable technology.
 • 🤖 Building AI-powered applications
 • 📊 Interested in Machine Learning & Data Engineering
 • 🚀 Currently creating products that solve real-world problems
-```
-
----
