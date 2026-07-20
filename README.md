@@ -41,20 +41,57 @@ Current Goal   : Building AI-powered products with real-world impact
 Learning       : Machine Learning, AWS, Data Engineering
 Open To        : Open Source • Collaboration • Research • Innovation
 ```
-## Tech Stack
+---
 
-<p align="center">
+# Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=aws"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=flutter"/>
-<img src="https://skillicons.dev/icons?i=firebase"/>
+<div align="center">
 
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart"/>
 </p>
+
+Python • Java • C++ • Dart
+
+<br>
+
+### Data Science & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn"/>
+</p>
+
+TensorFlow • Scikit-Learn
+
+<br>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+</p>
+
+MySQL • MongoDB
+
+<br>
+
+### Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/>
+</p>
+
+AWS • Git • GitHub • VS Code • Firebase
+
+</div>
+
+---
