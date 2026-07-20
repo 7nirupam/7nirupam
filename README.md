@@ -75,3 +75,28 @@ Open To        : Open Source • Collaboration • Research • Innovation
 </div>
 
 ---
+
+---
+
+# Featured Projects
+
+### ☁️ AWS Cloud Projects
+A collection of hands-on cloud projects focused on deploying scalable applications, cloud storage, compute services, and serverless architectures.
+
+**Tech:** AWS • EC2 • S3 • Lambda • IAM
+
+---
+
+### 🤖 AI Resume Analyzer
+An intelligent resume analysis platform that provides ATS scoring, skill insights, and personalized recommendations.
+
+**Tech:** Python • Machine Learning • Flask
+
+---
+
+### 📊 Data Science Projects
+A curated collection of data analysis, machine learning, and visualization projects using real-world datasets.
+
+**Tech:** Python • Pandas • NumPy • Scikit-Learn • Matplotlib
+
+---
