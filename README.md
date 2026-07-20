@@ -3,9 +3,6 @@
 <img src="./file_000000004f888206a47d852e0578d3f6.png" width="100%" alt="Nirupam Shinde Banner"/>
 
 <br>
-
-# 𝐍𝐈𝐑𝐔𝐏𝐀𝐌 𝐒𝐇𝐈𝐍𝐃𝐄
-
 ### Data Scientist • AI Engineer • Cloud Enthusiast
 
 Building intelligent products through **Data**, **Artificial Intelligence**, and **Cloud Computing**.
@@ -43,55 +40,40 @@ Open To        : Open Source • Collaboration • Research • Innovation
 ```
 ---
 
-# Tech Stack
-
 <div align="center">
 
-### Languages
+<table>
+<tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=dart" alt="Dart"/>
-</p>
+<td align="center" width="180">
 
-Python • Java • C++ • Dart
+<img src="https://skillicons.dev/icons?i=python" width="55"><br><br>
+<b>Python</b>
 
-<br>
+</td>
 
-### Data Science & AI
+<td align="center" width="180">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java" width="55"><br><br>
+<b>Java</b>
 
-TensorFlow • Scikit-Learn
+</td>
 
-<br>
+<td align="center" width="180">
 
-### Databases
+<img src="https://skillicons.dev/icons?i=cpp" width="55"><br><br>
+<b>C++</b>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-</p>
+</td>
 
-MySQL • MongoDB
+<td align="center" width="180">
 
-<br>
+<img src="https://skillicons.dev/icons?i=mysql" width="55"><br><br>
+<b>MySQL</b>
 
-### Cloud & Tools
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/>
-</p>
-
-AWS • Git • GitHub • VS Code • Firebase
+</tr>
+</table>
 
 </div>
-
----
