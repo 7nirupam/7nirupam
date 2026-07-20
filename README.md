@@ -13,15 +13,15 @@ Focused on creating scalable software, intelligent systems, and impactful digita
 <br>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:nirupamshinde7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/nirupam-shinde-360514354">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/7nirupam">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
