@@ -45,32 +45,122 @@ Open To        : Open Source • Collaboration • Research • Innovation
 <table>
 <tr>
 
-<td align="center" width="180">
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python" width="55"><br><br>
-<b>Python</b>
+<div align="center">
 
+### Programming Languages
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br><br>
+Python
 </td>
 
-<td align="center" width="180">
-
-<img src="https://skillicons.dev/icons?i=java" width="55"><br><br>
-<b>Java</b>
-
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br><br>
+Java
 </td>
 
-<td align="center" width="180">
-
-<img src="https://skillicons.dev/icons?i=cpp" width="55"><br><br>
-<b>C++</b>
-
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=dart" width="48"/><br><br>
+Dart
 </td>
 
-<td align="center" width="180">
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><br>
+SQL
+</td>
 
-<img src="https://skillicons.dev/icons?i=mysql" width="55"><br><br>
-<b>MySQL</b>
+</tr>
+</table>
 
+<br>
+
+### Data Analytics & AI
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48"/><br><br>
+Pandas
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/numpy/013243" width="48"/><br><br>
+NumPy
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48"/><br><br>
+Scikit-Learn
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48"/><br><br>
+TensorFlow
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### Cloud & AWS
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws" width="48"/><br><br>
+AWS
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/amazons3/569A31" width="48"/><br><br>
+Amazon S3
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/awslambda/FF9900" width="48"/><br><br>
+AWS Lambda
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/amazonec2/FF9900" width="48"/><br><br>
+Amazon EC2
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### Tools
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br><br>
+Git
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br><br>
+GitHub
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><br>
+VS Code
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=firebase" width="48"/><br><br>
+Firebase
 </td>
 
 </tr>
