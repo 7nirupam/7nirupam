@@ -19,22 +19,22 @@ Passionate about solving real-world problems with scalable technology.
 <p align="center">
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/7nirupam">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=7nirupam&label=Profile%20Views&color=A58C6F&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -47,4 +47,7 @@ Passionate about solving real-world problems with scalable technology.
 • ☁️ Exploring Cloud Computing & AWS
 • 🤖 Building AI-powered applications
 • 📊 Interested in Machine Learning & Data Engineering
-• 🚀 Currently creating products that solve real-world problems
+• 🚀 Building products that solve real-world problems
+```
+
+---
