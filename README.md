@@ -3,6 +3,7 @@
 <img src="./file_000000004f888206a47d852e0578d3f6.png" width="100%" alt="Nirupam Shinde Banner"/>
 
 <br>
+
 ### Data Scientist • AI Engineer • Cloud Enthusiast
 
 Building intelligent products through **Data**, **Artificial Intelligence**, and **Cloud Computing**.
@@ -49,121 +50,28 @@ Open To        : Open Source • Collaboration • Research • Innovation
 
 <div align="center">
 
-### Programming Languages
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,dart,mysql" />
 
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br><br>
-Python
-</td>
+<br><br>
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=java" width="48"/><br><br>
-Java
-</td>
+### Data & AI
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=dart" width="48"/><br><br>
-Dart
-</td>
+**Pandas • NumPy • Scikit-Learn • Matplotlib**
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><br>
-SQL
-</td>
+<br><br>
 
-</tr>
-</table>
+### Cloud
+<img src="https://skillicons.dev/icons?i=aws" />
 
-<br>
+**Amazon EC2 • Amazon S3 • AWS Lambda**
 
-### Data Analytics & AI
-
-<table>
-<tr>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/pandas/150458" width="48"/><br><br>
-Pandas
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/numpy/013243" width="48"/><br><br>
-NumPy
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48"/><br><br>
-Scikit-Learn
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48"/><br><br>
-TensorFlow
-</td>
-
-</tr>
-</table>
-
-<br>
-
-### Cloud & AWS
-
-<table>
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=aws" width="48"/><br><br>
-AWS
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/amazons3/569A31" width="48"/><br><br>
-Amazon S3
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/awslambda/FF9900" width="48"/><br><br>
-AWS Lambda
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/amazonec2/FF9900" width="48"/><br><br>
-Amazon EC2
-</td>
-
-</tr>
-</table>
-
-<br>
+<br><br>
 
 ### Tools
-
-<table>
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br><br>
-Git
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br><br>
-GitHub
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><br>
-VS Code
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=firebase" width="48"/><br><br>
-Firebase
-</td>
-
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
 
 </div>
+
+---
