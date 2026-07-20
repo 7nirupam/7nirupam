@@ -100,3 +100,15 @@ A curated collection of data analysis, machine learning, and visualization proje
 **Tech:** Python • Pandas • NumPy • Scikit-Learn • Matplotlib
 
 ---
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
