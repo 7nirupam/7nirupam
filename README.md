@@ -116,3 +116,16 @@ A curated collection of data analysis, machine learning, and visualization proje
 </div>
 
 ---
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=7nirupam&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7nirupam&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
