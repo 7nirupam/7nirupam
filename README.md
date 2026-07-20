@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0F172A,100:2563EB&section=header"/>
 <div align="center">
 
 <img src="./file_000000004f888206a47d852e0578d3f6.png" width="100%" alt="Nirupam Shinde Banner"/>
