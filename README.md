@@ -62,10 +62,10 @@ Open To        : Open Source • Collaboration • Research • Innovation
 
 <br><br>
 
-### Cloud
+### Cloud & Devops 
 <img src="https://skillicons.dev/icons?i=aws" />
 
-**Amazon EC2 • Amazon S3 • AWS Lambda**
+**AWS • CI/CD • Amazon EC2 • Amazon S3 • AWS Lambda • Amazon Rekognition • Amazon RDS • API Gateway • IAM • CloudWatch • Docker • GitHub Actions**
 
 <br><br>
 
