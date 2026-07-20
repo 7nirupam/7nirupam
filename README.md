@@ -41,3 +41,20 @@ Current Goal   : Building AI-powered products with real-world impact
 Learning       : Machine Learning, AWS, Data Engineering
 Open To        : Open Source • Collaboration • Research • Innovation
 ```
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
