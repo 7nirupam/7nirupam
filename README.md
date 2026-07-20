@@ -10,29 +10,23 @@
 
 Building intelligent products through **Data**, **Artificial Intelligence**, and **Cloud Computing**.
 
-Focused on solving real-world problems with scalable software, intelligent systems, and modern technologies.
+Focused on creating scalable software, intelligent systems, and impactful digital experiences.
 
 <br>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-&nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=flat-square&color=0A66C2" alt="Profile Views"/>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
 
@@ -41,28 +35,30 @@ Focused on solving real-world problems with scalable software, intelligent syste
 # About
 
 <table>
+
 <tr>
-<td width="32">🎓</td>
+<td width="40">🎓</td>
 <td><strong>M.Sc. Data Science & Big Data Analytics</strong></td>
 </tr>
 
 <tr>
-<td>☁️</td>
+<td width="40">☁️</td>
 <td>Learning Cloud Computing & AWS</td>
 </tr>
 
 <tr>
-<td>🤖</td>
-<td>Building AI-powered applications and intelligent systems</td>
+<td width="40">🤖</td>
+<td>Building AI-powered applications using modern technologies</td>
 </tr>
 
 <tr>
-<td>📊</td>
+<td width="40">📊</td>
 <td>Interested in Machine Learning, Data Engineering & Analytics</td>
 </tr>
 
 <tr>
-<td>🚀</td>
-<td>Creating impactful software and solving real-world problems</td>
+<td width="40">🚀</td>
+<td>Creating impactful software that solves real-world problems</td>
 </tr>
+
 </table>
