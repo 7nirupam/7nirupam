@@ -137,3 +137,12 @@ A curated collection of data analysis, machine learning, and visualization proje
 </div>
 
 ---
+<div align="center">
+
+> **Turning ideas into scalable products through AI, data, and cloud technologies.**
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
