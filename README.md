@@ -118,13 +118,21 @@ A curated collection of data analysis, machine learning, and visualization proje
 ---
 ---
 
-# GitHub Analytics
+# Let's Connect
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=7nirupam&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<a href="mailto:nirupamshinde7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7nirupam&layout=compact&theme=transparent&hide_border=true" />
+<a href="https://www.linkedin.com/in/nirupam-shinde-360514354">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/7nirupam">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
