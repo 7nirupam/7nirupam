@@ -32,33 +32,12 @@ Focused on creating scalable software, intelligent systems, and impactful digita
 
 ---
 
-# About
+## About Me
 
-<table>
-
-<tr>
-<td width="40">🎓</td>
-<td><strong>M.Sc. Data Science & Big Data Analytics</strong></td>
-</tr>
-
-<tr>
-<td width="40">☁️</td>
-<td>Learning Cloud Computing & AWS</td>
-</tr>
-
-<tr>
-<td width="40">🤖</td>
-<td>Building AI-powered applications using modern technologies</td>
-</tr>
-
-<tr>
-<td width="40">📊</td>
-<td>Interested in Machine Learning, Data Engineering & Analytics</td>
-</tr>
-
-<tr>
-<td width="40">🚀</td>
-<td>Creating impactful software that solves real-world problems</td>
-</tr>
-
-</table>
+```text
+Education      : M.Sc. Data Science & Big Data Analytics
+Focus          : Data Science • Artificial Intelligence • Cloud
+Current Goal   : Building AI-powered products with real-world impact
+Learning       : Machine Learning, AWS, Data Engineering
+Open To        : Open Source • Collaboration • Research • Innovation
+```
